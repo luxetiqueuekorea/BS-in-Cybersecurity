@@ -1040,8 +1040,8 @@ By graduation, a student should have strong competence across:
 
 This version is significantly stronger than the original curriculum.
 
-**For 2030:** ★★★★★
-**For 2035:** ★★★★★
+**For 2030:** ★★★★★  
+**For 2035:** ★★★★★  
 **For 2040:** ★★★★½
 
 It is not "future-proof" because no curriculum can literally predict 2040.
