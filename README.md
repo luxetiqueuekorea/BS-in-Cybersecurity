@@ -4,9 +4,10 @@
 
 > **Designed for 2030–2040**
 
-[![Degree](https://img.shields.io/badge/BS-in-Cybersecurity%20of%20Science-blue)](#-program-vision)
+[![Degree](https://img.shields.io/badge/Degree-BS%20in%20Cybersecurity-blue)](#-program-vision)
 [![Duration](https://img.shields.io/badge/Duration-4%20Years-orange)](#-program-structure)
 [![Semesters](https://img.shields.io/badge/Semesters-8-green)](#-curriculum)
+[![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20AI%20%7C%20Cloud-purple)](#-final-program-profile)
 
 | Program | Details |
 |---|---|
@@ -1050,5 +1051,3 @@ It is **future-resilient** because the permanent computer-science and cybersecur
 The most important change is that **AI security, AI-agent security, software/AI supply-chain security, cloud-native security, post-quantum migration, cyber-physical security and autonomous defense are now integrated into the core rather than being treated as afterthoughts.**
 
 That gives this curriculum a much stronger **2030–2040 profile**.
-
----
