@@ -1051,3 +1051,15 @@ It is **future-resilient** because the permanent computer-science and cybersecur
 The most important change is that **AI security, AI-agent security, software/AI supply-chain security, cloud-native security, post-quantum migration, cyber-physical security and autonomous defense are now integrated into the core rather than being treated as afterthoughts.**
 
 That gives this curriculum a much stronger **2030–2040 profile**.
+
+---
+
+By: Luxetiqueue Korea
+
+Website: <a href="https://luxetiqueuekorea.com" style="text-decoration: none;">luxetiqueuekorea.com</a><br>
+Instagram: <a href="https://instagram.com/luxetiqueuekorea" style="text-decoration: none;">instagram.com/luxetiqueuekorea</a><br>
+Threads: <a href="https://threads.com/@luxetiqueuekorea" style="text-decoration: none;">threads.com/@luxetiqueuekorea</a><br>
+GitHub: <a href="https://github.com/luxetiqueuekorea" style="text-decoration: none;">github.com/luxetiqueuekorea</a><br>
+LinkedIn: <a href="https://linkedin.com/company/luxetiqueuekorea" style="text-decoration: none;">linkedin.com/company/luxetiqueuekorea</a><br>
+Email: <a href="mailto:info@luxetiqueuekorea.com" style="text-decoration: none;">info@luxetiqueuekorea.com</a><br>
+YouTube: <a href="https://www.youtube.com/@luxetiqueuekorea" style="text-decoration: none;">youtube.com/@luxetiqueuekorea</a>
